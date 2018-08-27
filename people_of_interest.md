@@ -1,3 +1,3 @@
 # People of Interest
 
-## * Ada Lovelace
+## *Ada Lovelace
