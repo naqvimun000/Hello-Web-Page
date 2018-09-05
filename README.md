@@ -1,5 +1,5 @@
 # My-Page
-
+Hi, my name is Muntazer Naqvi. I am in 9th grade.
 * [Syllabus](https://github.com/naqvimun000/My-Page/blob/master/syllabus.md)
 * [CS 1 Course Description](https://github.com/naqvimun000/My-Page/blob/master/course_description.md)
 * [What is Computer Science?](https://github.com/naqvimun000/My-Page/blob/master/what_is_compsci.md)
